@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWPSoundBoard", "UWPSoundBoard.csproj", "{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|ARM.Build.0 = Debug|ARM
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|ARM.Deploy.0 = Debug|ARM
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|x64.ActiveCfg = Debug|x64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|x64.Build.0 = Debug|x64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|x64.Deploy.0 = Debug|x64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|x86.ActiveCfg = Debug|x86
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|x86.Build.0 = Debug|x86
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Debug|x86.Deploy.0 = Debug|x86
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|ARM.ActiveCfg = Release|ARM
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|ARM.Build.0 = Release|ARM
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|ARM.Deploy.0 = Release|ARM
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|ARM64.Build.0 = Release|ARM64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|ARM64.Deploy.0 = Release|ARM64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|x64.ActiveCfg = Release|x64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|x64.Build.0 = Release|x64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|x64.Deploy.0 = Release|x64
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|x86.ActiveCfg = Release|x86
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|x86.Build.0 = Release|x86
+		{0FDF0FC8-C22C-4B1B-853D-AD7DD3ECEDFF}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22ACDC6D-F52F-4FEA-8FEE-3FBD7B31CB40}
+	EndGlobalSection
+EndGlobal
