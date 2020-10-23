@@ -39,8 +39,8 @@ namespace AppStoreMusic.Model
             sounds.Add(new Sound("Cow", SoundCategory.Animals));
             sounds.Add(new Sound("Cat", SoundCategory.Animals));
 
-            sounds.Add(new Sound("Gun", SoundCategory.Cartoon));
-            sounds.Add(new Sound("Spring", SoundCategory.Cartoon));
+            sounds.Add(new Sound("Gun", SoundCategory.Cartoons));
+            sounds.Add(new Sound("Spring", SoundCategory.Cartoons));
 
             sounds.Add(new Sound("Clock", SoundCategory.Taunts));
             sounds.Add(new Sound("LOL", SoundCategory.Taunts));

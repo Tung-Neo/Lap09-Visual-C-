@@ -18,14 +18,14 @@ namespace AppStoreMusic.Model
             Name = name;
             Category = category;
             AudioFile = String.Format("/Assets/Audio/{0}/{1}.wav", category, name);
-            ImageFile = String.Format("/Assets/Images/{0}/{1}.wav", category, name);
+            ImageFile = String.Format("/Assets/Images/{0}/{1}.png", category, name);
         }
     }
 
     public enum SoundCategory
     {
         Animals,
-        Cartoon,
+        Cartoons,
         Taunts,
         Warnings
     }
