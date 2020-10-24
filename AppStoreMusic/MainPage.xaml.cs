@@ -37,10 +37,8 @@ namespace AppStoreMusic
             SoundManager.GetAllSounds(Sounds);
 
             MenuItems = new List<MenuItem>();
-            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/animals.png", Category = SoundCategory.Animals });
-            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/cartoon.png", Category = SoundCategory.Cartoons });
-            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/taunt.png", Category = SoundCategory.Taunts });
-            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/warning.png", Category = SoundCategory.Warnings });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/trang-mo.jpg", Category = SoundCategory.ChungThanhDuy });
+            MenuItems.Add(new MenuItem { IconFile = "Assets/Icons/em-da-thuong-nguoi-ta-hon-anh.jpg", Category = SoundCategory.NooPhuocThinh });
 
             BackButton.Visibility = Visibility.Collapsed;
         }

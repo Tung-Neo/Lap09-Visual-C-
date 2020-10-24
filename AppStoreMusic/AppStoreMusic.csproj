@@ -133,26 +133,16 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\Audio\Animals\Cat.wav" />
-    <Content Include="Assets\Audio\Animals\Cow.wav" />
-    <Content Include="Assets\Audio\Cartoons\Gun.wav" />
-    <Content Include="Assets\Audio\Cartoons\Spring.wav" />
-    <Content Include="Assets\Audio\Taunts\Clock.wav" />
-    <Content Include="Assets\Audio\Taunts\LOL.wav" />
-    <Content Include="Assets\Audio\Warnings\Ship.wav" />
-    <Content Include="Assets\Audio\Warnings\Siren.wav" />
-    <Content Include="Assets\Icons\animals.png" />
-    <Content Include="Assets\Icons\cartoon.png" />
-    <Content Include="Assets\Icons\taunt.png" />
-    <Content Include="Assets\Icons\warning.png" />
-    <Content Include="Assets\Images\Animals\Cat.png" />
-    <Content Include="Assets\Images\Animals\Cow.png" />
-    <Content Include="Assets\Images\Cartoons\Gun.png" />
-    <Content Include="Assets\Images\Cartoons\Spring.png" />
-    <Content Include="Assets\Images\Taunts\Clock.png" />
-    <Content Include="Assets\Images\Taunts\LOL.png" />
-    <Content Include="Assets\Images\Warnings\Ship.png" />
-    <Content Include="Assets\Images\Warnings\Siren.png" />
+    <Content Include="Assets\Audio\ChungThanhDuy\Duyên Trời Lấy 2 %28Orinn Remix%29 - Chung Thanh Duy _ Nhạc EDM 8D Tiktok Gây Nghiện Hay Nhất 2020.mp3" />
+    <Content Include="Assets\Audio\ChungThanhDuy\Trăng Mờ - Chung Thanh Duy.mp3" />
+    <Content Include="Assets\Audio\NooPhuocThinh\Em Đã Thương Người Ta Hơn Anh - Noo Phước Thịnh.mp3" />
+    <Content Include="Assets\Audio\NooPhuocThinh\I%27m Still Loving You – Noo Phước Thịnh.mp3" />
+    <Content Include="Assets\Icons\em-da-thuong-nguoi-ta-hon-anh.jpg" />
+    <Content Include="Assets\Icons\trang-mo.jpg" />
+    <Content Include="Assets\Images\ChungThanhDuy\duyen-troi-lay.jpg" />
+    <Content Include="Assets\Images\ChungThanhDuy\trang-mo.jpg" />
+    <Content Include="Assets\Images\NooPhuocThinh\em-da-thuong-nguoi-ta-hon-anh.jpg" />
+    <Content Include="Assets\Images\NooPhuocThinh\i%27m-still-loving-you.jpg" />
     <Content Include="Assets\PackageAppXManifest\1240x1240.png" />
     <Content Include="Assets\PackageAppXManifest\1240x600.png" />
     <Content Include="Assets\PackageAppXManifest\24x24-large.png" />
@@ -167,13 +157,6 @@
     <Content Include="Assets\PackageAppXManifest\88x88-large.png" />
     <Content Include="Assets\PackageAppXManifest\88x88.png" />
     <Content Include="Properties\Default.rd.xml" />
-    <Content Include="Assets\LockScreenLogo.scale-200.png" />
-    <Content Include="Assets\SplashScreen.scale-200.png" />
-    <Content Include="Assets\Square150x150Logo.scale-200.png" />
-    <Content Include="Assets\Square44x44Logo.scale-200.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
-    <Content Include="Assets\StoreLogo.png" />
-    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -190,6 +173,7 @@
       <Version>6.2.10</Version>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

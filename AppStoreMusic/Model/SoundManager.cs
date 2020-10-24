@@ -36,17 +36,11 @@ namespace AppStoreMusic.Model
         {
             var sounds = new List<Sound>();
 
-            sounds.Add(new Sound("Cow", SoundCategory.Animals));
-            sounds.Add(new Sound("Cat", SoundCategory.Animals));
+            sounds.Add(new Sound("Duyên Trời Lấy 2", SoundCategory.ChungThanhDuy));
+            sounds.Add(new Sound("Trăng Mờ", SoundCategory.ChungThanhDuy));
 
-            sounds.Add(new Sound("Gun", SoundCategory.Cartoons));
-            sounds.Add(new Sound("Spring", SoundCategory.Cartoons));
-
-            sounds.Add(new Sound("Clock", SoundCategory.Taunts));
-            sounds.Add(new Sound("LOL", SoundCategory.Taunts));
-
-            sounds.Add(new Sound("Ship", SoundCategory.Warnings));
-            sounds.Add(new Sound("Siren", SoundCategory.Warnings));
+            sounds.Add(new Sound("Em Đã Thương Người Ta Hơn Anh", SoundCategory.NooPhuocThinh));
+            sounds.Add(new Sound("I'm Still Loving You", SoundCategory.NooPhuocThinh));
 
             return sounds;
         }
